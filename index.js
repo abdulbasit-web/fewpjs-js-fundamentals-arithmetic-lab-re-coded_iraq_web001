@@ -9,3 +9,4 @@ let random = Math.floor(Math.random()*6)+1
 
 const mod = 11%7;
 
+const max = Math.max(2)
