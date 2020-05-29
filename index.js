@@ -5,4 +5,4 @@ let num1 = 2;
 let num2 = 31;
 let multiply = num1*num2;
 
-let random  = Math.floor(math.random()*6)+1
+let random = Math.floor(math.random()*6)+1
